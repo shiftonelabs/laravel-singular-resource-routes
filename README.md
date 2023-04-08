@@ -26,6 +26,10 @@ These routes differ from the current resource routes in two ways:
 1. The `show`, `edit`, `update`, and `destroy` routes do not need a route parameter.
 2. Since this is a singular resource, there is no `index` action.
 
+## Versions
+
+This package has been tested on Laravel 5.0 through Laravel 8.x, though it may continue to work on later versions as they are released. This section will be updated to reflect the versions on which the package has actually been tested.
+
 ## Install
 
 Via Composer
