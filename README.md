@@ -31,7 +31,7 @@ These routes differ from the current resource routes in two ways:
 Via Composer
 
 ``` bash
-$ composer require shiftonelabs/laravel-singular-resource-routes
+composer require shiftonelabs/laravel-singular-resource-routes
 ```
 
 Service Provider
